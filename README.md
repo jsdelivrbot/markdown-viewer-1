@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
+# Markdown Viewer
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project is a tool that allows you preview text using markdown.  The project was created using React.js and the help of Stephen Grider's boilerplate for React-Redux.
+
+![](/screeshot-markdown.png)
 
 ###Getting Started###
 
